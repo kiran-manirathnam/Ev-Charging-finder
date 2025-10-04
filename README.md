@@ -21,7 +21,7 @@ It combines geolocation search, Open Charge Map API integration, and clustering-
 ```
 📁 Bengaluru_EV_Project
 │
-├── bengaluru_ev_charging.csv          # Original dataset
+├── bengaluru_ev_charging.csv          # Original datase
 ├── bengaluru_ev_charging_clustered.csv # Clustered dataset (output)
 │
 ├── ev_model.py                        # K-Means clustering model
@@ -105,8 +105,7 @@ The chatbot fetches charger details from the **Open Charge Map API**:
 
 ## 🧑‍💻 Author
 
-Developed by **Kiran**  
-📬 OpenAI ChatGPT (GPT-5) assisted ML project  
+Developed by **Kiran & Mayur**  
 
 ---
 
