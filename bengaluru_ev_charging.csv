@@ -1,0 +1,179 @@
+station_id,name,latitude,longitude,address,google_maps,source
+309267,JW Marriott,12.97228768658023,77.59492658243641,"Vittal Mallya Road, D'Souza Layout","https://www.google.com/maps/search/?api=1&query=12.97228768658023,77.59492658243641",OpenChargeMap
+309268,Sundaram Motors,12.973845154518216,77.59597891080779,"107, Kasturba Road, opp. Venkatappa Art Gallery, ","https://www.google.com/maps/search/?api=1&query=12.973845154518216,77.59597891080779",OpenChargeMap
+309097,ibis Bengaluru City Centre,12.96751,77.5939,"Plot No - 30, Raja Ram Mohan Roy Road, off Richmond Road","https://www.google.com/maps/search/?api=1&query=12.96751,77.5939",OpenChargeMap
+309099,ITC Gardenia Bengaluru,12.96728,77.59552,"1, Residency Road","https://www.google.com/maps/search/?api=1&query=12.96728,77.59552",OpenChargeMap
+309270,BMW Navnit Motors,12.97259859569182,77.59908118684689,"48/3, Lavelle Road","https://www.google.com/maps/search/?api=1&query=12.97259859569182,77.59908118684689",OpenChargeMap
+103614,Ather Grid Point - 6000 Miles to Isle of Man,12.9756828,77.5982326000001,Kasturba Road,"https://www.google.com/maps/search/?api=1&query=12.9756828,77.5982326000001",OpenChargeMap
+309269,Hotel Southern Star,12.974727464060706,77.59942186908683,Lavelle Road,"https://www.google.com/maps/search/?api=1&query=12.974727464060706,77.59942186908683",OpenChargeMap
+309266,Audi Central,12.97001545590929,77.6004747835533,"1, St Marks Road, Shanthala Nagar","https://www.google.com/maps/search/?api=1&query=12.97001545590929,77.6004747835533",OpenChargeMap
+103746,BESCOM Head Office,12.9755314120859,77.5883364581665,K R Subway,"https://www.google.com/maps/search/?api=1&query=12.9755314120859,77.5883364581665",OpenChargeMap
+309098,Divyasree Chambers,12.96192,77.59922,"O Shaughnessy Road, Langford Gardens","https://www.google.com/maps/search/?api=1&query=12.96192,77.59922",OpenChargeMap
+309271,Forum Rex Walk,12.972458,77.606851,Brigade Road,"https://www.google.com/maps/search/?api=1&query=12.972458,77.606851",OpenChargeMap
+309272,Vivanta by Taj Residency Road,12.97248838809081,77.60854161055966,"66, Residency Road","https://www.google.com/maps/search/?api=1&query=12.97248838809081,77.60854161055966",OpenChargeMap
+309319,Freedom Park,12.97859,77.58139,"Sevakshetra, No. 14  6th Cross","https://www.google.com/maps/search/?api=1&query=12.97859,77.58139",OpenChargeMap
+309273,Welcomhotel Richmond Road,12.968709974182843,77.61440938105488,"46, Richmond Road","https://www.google.com/maps/search/?api=1&query=12.968709974182843,77.61440938105488",OpenChargeMap
+308804,The Rialto Hotel,12.98026,77.57661,"20-21, Seshadri Rd, Gandhi Nagar","https://www.google.com/maps/search/?api=1&query=12.98026,77.57661",OpenChargeMap
+308757,Renaissance Bengaluru Race Course Hotel,12.98439,77.57639,"No 17 And 17, 1, Race Course Rd, Madhava Nagar, Extension","https://www.google.com/maps/search/?api=1&query=12.98439,77.57639",OpenChargeMap
+309293,"The Oberoi, Bengaluru",12.972788253204087,77.6184047836071,"37-39, MG Road","https://www.google.com/maps/search/?api=1&query=12.972788253204087,77.6184047836071",OpenChargeMap
+309294,Taj MG Road,12.97331434540071,77.6195781000381,"41/3, MG Road, Yellappa Garden","https://www.google.com/maps/search/?api=1&query=12.97331434540071,77.6195781000381",OpenChargeMap
+308805,Radisson Bengaluru City Center,12.97622,77.61948,"2, Gangadhar Chetty Rd, Halasuru","https://www.google.com/maps/search/?api=1&query=12.97622,77.61948",OpenChargeMap
+309295,The Park Hotel,12.973940635420362,77.61988884794027,"No 6/2, Bhaskaran Road, Yellappa Garden","https://www.google.com/maps/search/?api=1&query=12.973940635420362,77.61988884794027",OpenChargeMap
+309296,Carzonrent,12.974519436687544,77.62146110718822,"# 16 'B, Bazaar Street, Halasuru","https://www.google.com/maps/search/?api=1&query=12.974519436687544,77.62146110718822",OpenChargeMap
+103606,Ather Grid Point - Moto Store & Cafe,12.9875541362772,77.6208706943579,"38/4, Kensington Rd, Sindhi Colony, Pulikeshi Nagar","https://www.google.com/maps/search/?api=1&query=12.9875541362772,77.6208706943579",OpenChargeMap
+308806,RMZ MILLENIA,12.98247,77.62461,"Halasuru,","https://www.google.com/maps/search/?api=1&query=12.98247,77.62461",OpenChargeMap
+309320,"Global Mall, Okalipuram",12.98211,77.56317,"Okalipura Road, Gopalapura","https://www.google.com/maps/search/?api=1&query=12.98211,77.56317",OpenChargeMap
+308809,Nexus Mall Koramangala,12.93484,77.6118,"Hosur Rd, Chikku Lakshmaiah Layout","https://www.google.com/maps/search/?api=1&query=12.93484,77.6118",OpenChargeMap
+103613,Ather Grid Point - Sunny Side Bistro,13.0018168,77.6235465,Wheeler Road Extension,"https://www.google.com/maps/search/?api=1&query=13.0018168,77.6235465",OpenChargeMap
+308803,GT World Mall,12.97396,77.55157,"Magadi Main Rd, next to Prasanna Theatre","https://www.google.com/maps/search/?api=1&query=12.97396,77.55157",OpenChargeMap
+103616,Ather Space,12.9756892941475,77.6412298094218,100 Feet Road(S K Karim Khan Road),"https://www.google.com/maps/search/?api=1&query=12.9756892941475,77.6412298094218",OpenChargeMap
+309189,Orion Avenue,13.001137938818005,77.63254,"10/34, Banaswadi, Dodda Banaswadi Main Road, Jaibharath Nagar,  ","https://www.google.com/maps/search/?api=1&query=13.001137938818005,77.63254",OpenChargeMap
+173082,Tata Fast Charger,12.952438850806772,77.63973152758626,Opposite Dell,"https://www.google.com/maps/search/?api=1&query=12.952438850806772,77.63973152758626",OpenChargeMap
+309297,Divyashree Greens,12.952724425242494,77.64085233195198,"Visitor Parking, Pine Valley, Embassy Golf-links Business Park, Off Intermediate Ring Road ","https://www.google.com/maps/search/?api=1&query=12.952724425242494,77.64085233195198",OpenChargeMap
+103612,Ather Grid Point - Patel's Inn,13.0212463,77.5980284,Thimmiah Gardens Streets,"https://www.google.com/maps/search/?api=1&query=13.0212463,77.5980284",OpenChargeMap
+107668,AtherGrid Go Native Cafe,12.9224636436796,77.5846883396955,Go Native Cafe,"https://www.google.com/maps/search/?api=1&query=12.9224636436796,77.5846883396955",OpenChargeMap
+308799,"Prerana Motors, Rajaji Nagar",12.99935,77.54971,"Metro Station, No 46, 2nd Stage 10th Cross, Chord Road","https://www.google.com/maps/search/?api=1&query=12.99935,77.54971",OpenChargeMap
+216992,SemaConnect Bangalore(Wait list Enabled) - 5,12.968634,77.649965,"#123, Block 4, 50 Feet Road, Bowie MD 21240","https://www.google.com/maps/search/?api=1&query=12.968634,77.649965",OpenChargeMap
+308800,Orion Mall Outside,13.009553121997012,77.55461112998876,Dr Rajkumar Road,"https://www.google.com/maps/search/?api=1&query=13.009553121997012,77.55461112998876",OpenChargeMap
+308801,Orion Brigade Gateway,13.01105,77.55471,"Dr Rajkumar Road, Rajajinagar","https://www.google.com/maps/search/?api=1&query=13.01105,77.55471",OpenChargeMap
+308802,Sheraton Grand Bangalore Hotel at Brigade Gateway,13.01275,77.55504,26/1 Dr. Rajkumar Road Malleswaram,"https://www.google.com/maps/search/?api=1&query=13.01275,77.55504",OpenChargeMap
+309274,BESCOM Byatarayanapura,12.950278857508295,77.54055692747397,"opp Byatarayanapura Traffic Police Station, Banashankari 1st Stage","https://www.google.com/maps/search/?api=1&query=12.950278857508295,77.54055692747397",OpenChargeMap
+308810,Kabra Excelsior,12.92786,77.63306,"6/A, 80 Feet Rd, Koramangala 1A Block, Koramangala 3 Block,","https://www.google.com/maps/search/?api=1&query=12.92786,77.63306",OpenChargeMap
+103609,Ather Grid Point - Caf Eleven,12.9233342441394,77.5548753083467,Outer Ring Road,"https://www.google.com/maps/search/?api=1&query=12.9233342441394,77.5548753083467",OpenChargeMap
+103611,Ather Grid Point - Chapter One,13.0323019,77.5697127,New BEL Road,"https://www.google.com/maps/search/?api=1&query=13.0323019,77.5697127",OpenChargeMap
+308731,Shell Recharge Mysore Road,12.94696,77.53247,"C-77, 3rd Cross Rd, Ranganathan Colony, Mysore Road","https://www.google.com/maps/search/?api=1&query=12.94696,77.53247",OpenChargeMap
+309351,Lithium Charging Station,13.014903182800126,77.6462047089708,"820, 2nd A Cross Rd, HRBR Layout 1st Block","https://www.google.com/maps/search/?api=1&query=13.014903182800126,77.6462047089708",OpenChargeMap
+308891,Shell Recharge Old Madras Road,12.9923,77.65942,"Old Madras Rd, Rajana Colony, K R PURAM HOBLI","https://www.google.com/maps/search/?api=1&query=12.9923,77.65942",OpenChargeMap
+309299,"Bengaluru One, Old Airport Road",12.95925146155301,77.6627608005785,"S3, Old Airport Road, Sudhama Nagar","https://www.google.com/maps/search/?api=1&query=12.95925146155301,77.6627608005785",OpenChargeMap
+308807,RMZ Infinity,12.99365,77.66045,"3, Old Madras Rd, opposite Gopalan Signature Mall","https://www.google.com/maps/search/?api=1&query=12.99365,77.66045",OpenChargeMap
+309285,The Pavilion 2,12.90375,77.60136,"Dollars Colony, J.P Nagar Phase 4","https://www.google.com/maps/search/?api=1&query=12.90375,77.60136",OpenChargeMap
+308808,Grand Mercure Bengaluru,12.99267,77.66117,"Old Madras Rd, Rahat Bagh","https://www.google.com/maps/search/?api=1&query=12.99267,77.66117",OpenChargeMap
+309283,Anant Cars Bannerghatta Road,12.90302,77.60159,"Janardhan Towers,opposite to Rainbow Hospital","https://www.google.com/maps/search/?api=1&query=12.90302,77.60159",OpenChargeMap
+308734,Shell Recharge Yeshwantpur,13.02499,77.54759,"Tumkur Rd, Yeshwanthpur Industrial Area, Phase 1, Yeswanthpur, Bengaluru, Karnataka 560022","https://www.google.com/maps/search/?api=1&query=13.02499,77.54759",OpenChargeMap
+309278,"Key Motors, Kanakapura Main Road",12.90401,77.57358,"No 71, 1A & 71/7, Kanakapura Main Road, opposite Gopalan Temple Trees Apartment","https://www.google.com/maps/search/?api=1&query=12.90401,77.57358",OpenChargeMap
+309220,"Adishakti Cars, Hebbal",13.04291,77.60927,"56, Outer Ring Road, opposite Lumbini Gardens","https://www.google.com/maps/search/?api=1&query=13.04291,77.60927",OpenChargeMap
+308758,KEVAL Charging Station,13.0001,77.52435,"568, 6th Cross, Outer Ring Road, Service Road","https://www.google.com/maps/search/?api=1&query=13.0001,77.52435",OpenChargeMap
+308663,MEI EV charging hub,13.026816255694186,77.54261284631212,Bengaluru,"https://www.google.com/maps/search/?api=1&query=13.026816255694186,77.54261284631212",OpenChargeMap
+309190,Sixth Gear Cars,13.046755410837207,77.59123644794158,"Bellary Road, Hebbal Kempapura","https://www.google.com/maps/search/?api=1&query=13.046755410837207,77.59123644794158",OpenChargeMap
+309300,Divija EV charging Station,12.918010619982525,77.64926514630082,"1066, 24th Main Road","https://www.google.com/maps/search/?api=1&query=12.918010619982525,77.64926514630082",OpenChargeMap
+308798,Taj Yeshwantpur,13.028822486015997,77.54032150168894,"2275, Tumkur Road, Yeshwanthpur Industrial Area, Phase 1","https://www.google.com/maps/search/?api=1&query=13.028822486015997,77.54032150168894",OpenChargeMap
+308903,Shell Recharge Yelachenahalli,12.89719,77.57071,"Kanakapura Main Road, next to Yelachenahali, Krishna Devaraya Nagar, Kashi Nagar, Kumaraswamy Layout","https://www.google.com/maps/search/?api=1&query=12.89719,77.57071",OpenChargeMap
+308923,ibis Bengaluru Hosur Road,12.90073,77.63203,"26/1, near Central Silk Board Junction, next to The Oxford College","https://www.google.com/maps/search/?api=1&query=12.90073,77.63203",OpenChargeMap
+309188,Gokulam Grand Hotel & Spa,13.04204,77.55465,"115, Mangalore - Villupuram Road, HMR Layout","https://www.google.com/maps/search/?api=1&query=13.04204,77.55465",OpenChargeMap
+309187,Elements Mall,13.04612,77.6269,Thanisandra Main Road,"https://www.google.com/maps/search/?api=1&query=13.04612,77.6269",OpenChargeMap
+309298,KTC Legacy Charging Station,12.945761639147051,77.67413004669817,"Site No. 1, Pearl Paradise Layout","https://www.google.com/maps/search/?api=1&query=12.945761639147051,77.67413004669817",OpenChargeMap
+309281,"Key Motors, Bannerghatta Road",12.88912,77.59736,"#215/15, Arakere Gate","https://www.google.com/maps/search/?api=1&query=12.88912,77.59736",OpenChargeMap
+308922,Blusmart Charging Station (HSR Hub),12.90212,77.64191,"ITI Layout, Sector 7, HSR Layout","https://www.google.com/maps/search/?api=1&query=12.90212,77.64191",OpenChargeMap
+103607,Ather Grid Point - Fab Cafe,12.9339420487577,77.517451890213,Kenchenahalli Main Road,"https://www.google.com/maps/search/?api=1&query=12.9339420487577,77.517451890213",OpenChargeMap
+309309,DoubleTree Suites by Hilton Bengaluru Outer Ring Road,12.919111753741149,77.66515519490173,"Iblur Gate, Dr. Puneeth Rajkumar Road ","https://www.google.com/maps/search/?api=1&query=12.919111753741149,77.66515519490173",OpenChargeMap
+309328,Forum South Bengaluru,12.88919162512768,77.56343684144673,"Konanakunte Cross Metro Statio, Kanakapura Road","https://www.google.com/maps/search/?api=1&query=12.88919162512768,77.56343684144673",OpenChargeMap
+309277,BESCOM Rajarajeshwari Nagar,12.92905,77.514789,"638, Kenchenahalli Main Road","https://www.google.com/maps/search/?api=1&query=12.92905,77.514789",OpenChargeMap
+308889,Shell Recharge Thanisandra,13.05367,77.63073,"Thanisandra Main Road, Hobli, Ashwath Nagar, KR Puram","https://www.google.com/maps/search/?api=1&query=13.05367,77.63073",OpenChargeMap
+308901,Shell Recharge Haralur,12.91293,77.66542,"Plot No.6, Sy No.27/2, Haralur Road, Ambalipura Village","https://www.google.com/maps/search/?api=1&query=12.91293,77.66542",OpenChargeMap
+309302,"Prerana Motors, Hongasandra",12.8912,77.63829,"No 55 Kudlugate, Hosur Road, next to Ozone Tech Park, Kudlu Gate","https://www.google.com/maps/search/?api=1&query=12.8912,77.63829",OpenChargeMap
+309350,MG Motor B Narayanapura,12.99577,77.6847,"1, Outer Ring Road, Kamadhenu Nagar","https://www.google.com/maps/search/?api=1&query=12.99577,77.6847",OpenChargeMap
+308732,Jio BP Pulse,12.98931,77.50062,Miraj Cinemas,"https://www.google.com/maps/search/?api=1&query=12.98931,77.50062",OpenChargeMap
+309301,Pratham Motors,12.89388,77.65157,"58/5, Kudlu Road, next to Zee School, HSR Extension","https://www.google.com/maps/search/?api=1&query=12.89388,77.65157",OpenChargeMap
+309279,Royal Meenakshi Mall,12.8759,77.59583,Bannerghatta Road,"https://www.google.com/maps/search/?api=1&query=12.8759,77.59583",OpenChargeMap
+309310,Courtyard by Marriott,12.928234378881882,77.68218794687056,Marathahalli - Sarjapur Outer Ring Road,"https://www.google.com/maps/search/?api=1&query=12.928234378881882,77.68218794687056",OpenChargeMap
+308811,Novotel Bengaluru Outer Ring Road,12.9299,77.68317,"ECOSPACE BUSINESS PARK, Sarjapur - Marathahalli Rd, opp. Rmz","https://www.google.com/maps/search/?api=1&query=12.9299,77.68317",OpenChargeMap
+308890,Shell Recharge TC Palya,13.02234,77.67867,136 Thambu Chetty Palya Main Road,"https://www.google.com/maps/search/?api=1&query=13.02234,77.67867",OpenChargeMap
+309316,Exora Business Park,12.94329,77.69229,Exora Business Park,"https://www.google.com/maps/search/?api=1&query=12.94329,77.69229",OpenChargeMap
+308899,Shell Recharge Prestige Tech Park,12.94269,77.69235,Prestige Tech Park Kadubeesanahalli Bridge,"https://www.google.com/maps/search/?api=1&query=12.94269,77.69235",OpenChargeMap
+188200,Hosa Road,12.911521506082025,77.67629825827191,Hosa Road,"https://www.google.com/maps/search/?api=1&query=12.911521506082025,77.67629825827191",OpenChargeMap
+309311,The Bay at Ecoworld,12.921003663939288,77.68539425864924,"Building No.6, RMZ Ecoworld Road","https://www.google.com/maps/search/?api=1&query=12.921003663939288,77.68539425864924",OpenChargeMap
+308812,RMZ EcoWorld,12.92542,77.68788,Bellandur,"https://www.google.com/maps/search/?api=1&query=12.92542,77.68788",OpenChargeMap
+309312,RMZ Eco World,12.92099415205729,77.6860545556384,Adarsh Palm Retreat Tower 1,"https://www.google.com/maps/search/?api=1&query=12.92099415205729,77.6860545556384",OpenChargeMap
+309315,Aloft Bengaluru Outer Ring Road ,12.93674468018763,77.69488851137544,Cessna Business Park Sarjapur - Marathahalli Outer Ring Road,"https://www.google.com/maps/search/?api=1&query=12.93674468018763,77.69488851137544",OpenChargeMap
+309303,"More Hypermarket, Hosur Road",12.88014,77.64592,#764/A ACC Layout B Block Near National Vemite,"https://www.google.com/maps/search/?api=1&query=12.88014,77.64592",OpenChargeMap
+309349,Trifecta Addatto,12.994305942257284,77.69929493060977,"ITPL Main Road, Garudachar Palya","https://www.google.com/maps/search/?api=1&query=12.994305942257284,77.69929493060977",OpenChargeMap
+308900,Shell Recharge Marathahalli,12.94285,77.69782,"Marathahalli, Outer Ring Road","https://www.google.com/maps/search/?api=1&query=12.94285,77.69782",OpenChargeMap
+308678,Akshaya Motors Mercedes-Benz,12.923963230811792,77.49720824597415,"Valagerehalli Village, 77/1, Mysore Road","https://www.google.com/maps/search/?api=1&query=12.923963230811792,77.49720824597415",OpenChargeMap
+309317,"Jio-BP Pulse Hub, Marathalli",12.95179,77.70207,"17, behind Biriyani Zone, Vivekananda Layout","https://www.google.com/maps/search/?api=1&query=12.95179,77.70207",OpenChargeMap
+103610,Ather Grid Point - Royal Airawat Residency,12.9222872,77.4954903,Bangalore-Mysore Road,"https://www.google.com/maps/search/?api=1&query=12.9222872,77.4954903",OpenChargeMap
+308813,Metropolis Gurukrupa Apartment,12.87479,77.64694,"58/1, near Fab Hypermart, Aishwarya Crystal Layout","https://www.google.com/maps/search/?api=1&query=12.87479,77.64694",OpenChargeMap
+309304,Metropolis Gurukrupa,12.87544,77.64835,"58/1, Hosur Road, Service Road","https://www.google.com/maps/search/?api=1&query=12.87544,77.64835",OpenChargeMap
+308898,Shell Recharge Bagmane Solarium,12.9717,77.7075,"Chinnapanahalli Main Rd, Kundalahalli Colony","https://www.google.com/maps/search/?api=1&query=12.9717,77.7075",OpenChargeMap
+309313,Big Pitcher Sarjapur Road,12.90986,77.68856,"Doddakannelli, 116/9, Ambalipura - Sarjapur Rd","https://www.google.com/maps/search/?api=1&query=12.90986,77.68856",OpenChargeMap
+308896,Shell Recharge Brookfield,12.982973492700651,77.7080860046741,"Graphite India Main Road, ITPL Main Rd, Hoodi, ","https://www.google.com/maps/search/?api=1&query=12.982973492700651,77.7080860046741",OpenChargeMap
+309347,BMW Deutsche Motoren,12.984136068485071,77.70811153054012,"217, 2, ITPL Main Road, Doddanakundi Industrial Area 2","https://www.google.com/maps/search/?api=1&query=12.984136068485071,77.70811153054012",OpenChargeMap
+309345,"Fairfield by Marriott, Mahadevapura",12.981842444072356,77.7086328330862,"3-A1 Kundanahalli Main Road, Mahadevpura","https://www.google.com/maps/search/?api=1&query=12.981842444072356,77.7086328330862",OpenChargeMap
+309348,Epitome KIA Whitefield,12.985769101393643,77.70856232742358,"19/A, Hoodi Main Road, Doddanakundi Industrial Area 2","https://www.google.com/maps/search/?api=1&query=12.985769101393643,77.70856232742358",OpenChargeMap
+309346,Lithium Urban Tech Pvt Ltd,12.98306,77.70906,"158, ITPL Main Road, NCPR Industrial Layout, Doddanakundi Industrial Area 2","https://www.google.com/maps/search/?api=1&query=12.98306,77.70906",OpenChargeMap
+308917,Blusmart Charging Station (Gottigere Hub),12.85845,77.58721,"52, Gottigere - Kengeri Rd, Vidyasagar Layout, Gundappa Layout","https://www.google.com/maps/search/?api=1&query=12.85845,77.58721",OpenChargeMap
+309305,"Kropex Auto, Hosur Road",12.87194,77.65095,"No 49/1, Hosur Road","https://www.google.com/maps/search/?api=1&query=12.87194,77.65095",OpenChargeMap
+309314,Bellandur Charging Hub,12.92924,77.70305,"Fitso Panathur PK Sports, Swimming, No.6","https://www.google.com/maps/search/?api=1&query=12.92924,77.70305",OpenChargeMap
+309344,Prestige Technostar,12.972600290996027,77.71145680417794,"ITPL Main Road Doddanakundi Industrial Area 2, Phase 1","https://www.google.com/maps/search/?api=1&query=12.972600290996027,77.71145680417794",OpenChargeMap
+308662,Shell Recharge Tumkur Road,13.046725564235746,77.50216038004966,"Nelamangala - Majestic Service Road Dasarahalli, ","https://www.google.com/maps/search/?api=1&query=13.046725564235746,77.50216038004966",OpenChargeMap
+308733,VST Central KIA,13.05335,77.50798,"69/2, Hesarghatta Rd, Bhuvaneshwari Nagar, Bagalakunte, Bengaluru, Karnataka 560057","https://www.google.com/maps/search/?api=1&query=13.05335,77.50798",OpenChargeMap
+308888,Shell Recharge Hennur,13.07536,77.6524,"Hennur Bagalur Main Rd, opp. Mantri Web City, Visthar","https://www.google.com/maps/search/?api=1&query=13.07536,77.6524",OpenChargeMap
+309343,KHT Brookefield,12.96712414548928,77.71696159433418,"#2, Kundalahalli Main Road, AECS Layout, ","https://www.google.com/maps/search/?api=1&query=12.96712414548928,77.71696159433418",OpenChargeMap
+309342,JLR Shakti Auto,12.963582255188314,77.7173795341912,"Jaguar and Land Rover, #36 Kundalahalli Main Road","https://www.google.com/maps/search/?api=1&query=12.963582255188314,77.7173795341912",OpenChargeMap
+309341,goEgo EV CHARGE PARK,12.96316,77.71814,"SRIT House, #113/1B, ITPL Main Road","https://www.google.com/maps/search/?api=1&query=12.96316,77.71814",OpenChargeMap
+308795,IKEA Bengaluru,13.04917,77.49967,"Nelamangala - Majestic Service Rd, Manjunatha Nagar, ","https://www.google.com/maps/search/?api=1&query=13.04917,77.49967",OpenChargeMap
+309306,MG Motor Hosur Road,12.86563,77.65753,"Old, 2B Workshop No 6, 384, 6/2 1, Hosur Road","https://www.google.com/maps/search/?api=1&query=12.86563,77.65753",OpenChargeMap
+308904,Shell Recharge Kanakapura Road,12.86276,77.53146,"Kanakapura Main Rd, Uttarahalli Hobli","https://www.google.com/maps/search/?api=1&query=12.86276,77.53146",OpenChargeMap
+308921,"La Maison Citroën Hosur Road, Bengaluru",12.86308,77.65922,"Survey No.4, Khata No. 62-4, Beratena Agrahara Village Begur Hobli","https://www.google.com/maps/search/?api=1&query=12.86308,77.65922",OpenChargeMap
+309339,DivyaSree LitBox,12.97098961190295,77.7250244631253,"DivyaSree Republic of Whitefield Sy. No. 36/2 & 36/3, Kundanahalli Village ","https://www.google.com/maps/search/?api=1&query=12.97098961190295,77.7250244631253",OpenChargeMap
+311451,Metro Cash&Carry,12.8610658784023,77.66099764437081,"5/2, NH - 44, Lavakusha Nagar","https://www.google.com/maps/search/?api=1&query=12.8610658784023,77.66099764437081",OpenChargeMap
+308885,Shell Yelahanka New Town,13.098,77.5658,"Yelahanka Rd, Escorts Colony","https://www.google.com/maps/search/?api=1&query=13.098,77.5658",OpenChargeMap
+309338,Marriott Hotel Whitefield,12.979262407836174,77.72744812682743,"Plot No 75, 8th Road","https://www.google.com/maps/search/?api=1&query=12.979262407836174,77.72744812682743",OpenChargeMap
+309337,Nexus Shantiniketan Jio-BP,12.989040024957774,77.72758362256013,ITPL Road,"https://www.google.com/maps/search/?api=1&query=12.989040024957774,77.72758362256013",OpenChargeMap
+309336,Nexus Shantiniketan - Statiq,12.989065694796125,77.72760379808074,ITPL Road,"https://www.google.com/maps/search/?api=1&query=12.989065694796125,77.72760379808074",OpenChargeMap
+309340,"Jio-bp Pulse Hub, Siddhapura",12.957173268150797,77.72954555409183,#244 Shop No 1 Varthur Main Road,"https://www.google.com/maps/search/?api=1&query=12.957173268150797,77.72954555409183",OpenChargeMap
+308920,JioBP Pulse Charging Hub - Electronic City Phase II,12.86462,77.67486,"Sy No 62/1, Electronic City, Hobli, Begur","https://www.google.com/maps/search/?api=1&query=12.86462,77.67486",OpenChargeMap
+309186,Jio BP Charging Hub Chikkagubbi ,13.087848141186939,77.66014774782752,"Chikkagubbi Village, Nadagowdagollahalli","https://www.google.com/maps/search/?api=1&query=13.087848141186939,77.66014774782752",OpenChargeMap
+309335,Sheraton Grand Bengaluru Whitefield Hotel & Convention Center,12.989215375302493,77.72961910576282,"Whitefield Road, Prestige Shantiniketan","https://www.google.com/maps/search/?api=1&query=12.989215375302493,77.72961910576282",OpenChargeMap
+308886,Shell Recharge Kogilu Road,13.1043,77.60448,"Kogilu Main Rd, Kurlappa Layout","https://www.google.com/maps/search/?api=1&query=13.1043,77.60448",OpenChargeMap
+309334,Divyasree NR Enclave,12.986347110711023,77.73038387486008,"#1, 1st Main Rd, Whitefield","https://www.google.com/maps/search/?api=1&query=12.986347110711023,77.73038387486008",OpenChargeMap
+308897,Shell Recharge Prestige Shantiniketan,12.992,77.7299,"9, Shanthi Road Bheemanna Garden, Shanti Nagar, Thigalarapalya","https://www.google.com/maps/search/?api=1&query=12.992,77.7299",OpenChargeMap
+308679,Kengeri Charging Hub,12.9055171580421,77.47375007379192,"Sy.no 125/1B, 111/1C, 129/1C, Mysore Road","https://www.google.com/maps/search/?api=1&query=12.9055171580421,77.47375007379192",OpenChargeMap
+311454,Electronic City - BPCL,12.85327,77.6672,"Hosur Road, Konappana Agrahara","https://www.google.com/maps/search/?api=1&query=12.85327,77.6672",OpenChargeMap
+309333,Park Square Mall,12.987280089618991,77.73628236461366,"ITPB, ITPL Main Road","https://www.google.com/maps/search/?api=1&query=12.987280089618991,77.73628236461366",OpenChargeMap
+103603,Ather Grid Point - Ascendas Park square mall,12.9872191,77.7364744,"40, ITPL Main Rd, Pattandur Agrahara,","https://www.google.com/maps/search/?api=1&query=12.9872191,77.7364744",OpenChargeMap
+309318,Jio-BP Pulse Varthur Hub,12.93979,77.73447,"Survey No 13/3, Balagere Road, opposite EuroKids","https://www.google.com/maps/search/?api=1&query=12.93979,77.73447",OpenChargeMap
+309332,Taj Vivanta Whitefield,12.98720238234145,77.7373662993079,"ITPB Main Road, Beside Park Square Mall","https://www.google.com/maps/search/?api=1&query=12.98720238234145,77.7373662993079",OpenChargeMap
+103604,"International Tech Park, Bangalore",12.985420937588,77.7385128788513,"Whitefield Road, Pattandur Agrahara, Whitefield","https://www.google.com/maps/search/?api=1&query=12.985420937588,77.7385128788513",OpenChargeMap
+309076,Hotel Kadamba Veg,12.9019345,77.4689096,"Sy. No 272/2, Nice Road Junction","https://www.google.com/maps/search/?api=1&query=12.9019345,77.4689096",OpenChargeMap
+311452,BloomSuites,12.839685411251565,77.65952566488613,"No. 5-56/A, Wipro Avenue, opp. Wipro Gate, Electronics City Phase 1","https://www.google.com/maps/search/?api=1&query=12.839685411251565,77.65952566488613",OpenChargeMap
+309185,Jaguar Land Rover Cars Airport Road,13.11756,77.60923,"NH - 44, Airport Road","https://www.google.com/maps/search/?api=1&query=13.11756,77.60923",OpenChargeMap
+311453,Monk Mansion,12.841088856819354,77.66441658541129,"89, Neeladri Nagar","https://www.google.com/maps/search/?api=1&query=12.841088856819354,77.66441658541129",OpenChargeMap
+309330,Nexus Whitefield Statiq,12.960076399887868,77.74719391663552,"62, Whitefield Main Road","https://www.google.com/maps/search/?api=1&query=12.960076399887868,77.74719391663552",OpenChargeMap
+103615,Ather Grid Point - Herbs and Spices,12.9679246469975,77.7497762255596,Whitefield Main Road,"https://www.google.com/maps/search/?api=1&query=12.9679246469975,77.7497762255596",OpenChargeMap
+308918,Blusmart Charging Station Electronic City Phase 1,12.82734,77.65552,"Maragondanahalli, Bommasandra","https://www.google.com/maps/search/?api=1&query=12.82734,77.65552",OpenChargeMap
+309331,The Zinc By Fern Hotels,12.97757571689229,77.7570895079167,"Surya Elegance, Off Channasandra Main Road, ","https://www.google.com/maps/search/?api=1&query=12.97757571689229,77.7570895079167",OpenChargeMap
+308895,Shell Recharge Avalahalli,13.04041,77.74131,Old Madras Road Bidarahalli Hobli,"https://www.google.com/maps/search/?api=1&query=13.04041,77.74131",OpenChargeMap
+309148,Kia India Training Center,13.05242,77.74675,"Budigere Road, Virgonagar","https://www.google.com/maps/search/?api=1&query=13.05242,77.74675",OpenChargeMap
+308894,Shell Recharge Budigere,13.06226,77.74273,"Budigere Rd Hosakote, Cheemasandra","https://www.google.com/maps/search/?api=1&query=13.06226,77.74273",OpenChargeMap
+309149,Orion Uptown Mall,13.05515,77.7638,"Kattamnallur, Old Madras Rd","https://www.google.com/maps/search/?api=1&query=13.05515,77.7638",OpenChargeMap
+309158,Jio BP Chikkajala,13.16554,77.62933,"NH 44, Yelahanka","https://www.google.com/maps/search/?api=1&query=13.16554,77.62933",OpenChargeMap
+309352,Miracle Dhaba,13.08468,77.41488,"Near Vishwashanthi Ashrama, Nelamangala, NH - 48, Tumkur Road","https://www.google.com/maps/search/?api=1&query=13.08468,77.41488",OpenChargeMap
+308893,Shell Recharge Mahadeva Kodigehalli,13.15446,77.70277,"IT Park, No 1, Road, Kiadb Industrial Park, Mahadeva Kodigehalli","https://www.google.com/maps/search/?api=1&query=13.15446,77.70277",OpenChargeMap
+308661,Jio BP Nelamangala,13.086525423479687,77.4084730159021,"Survey No 113/1, 117/2 & 115/1, Nelamangala Road, Vijaya Vittala Nagar, Kasaba Hobli","https://www.google.com/maps/search/?api=1&query=13.086525423479687,77.4084730159021",OpenChargeMap
+308919,Jio BP Chandapura,12.79284,77.72766,"Survey No 73, Anekal, Neraluru","https://www.google.com/maps/search/?api=1&query=12.79284,77.72766",OpenChargeMap
+309150,GAIL Gas Station -Tata Power,13.15341,77.72827,"SH 104, Singahalli","https://www.google.com/maps/search/?api=1&query=13.15341,77.72827",OpenChargeMap
+309157,Moxy Bengaluru Airport Prestige Tech Cloud,13.19211,77.64456,"4 & 5, Sadahalli Main Road, Near Sadhahalli Gate","https://www.google.com/maps/search/?api=1&query=13.19211,77.64456",OpenChargeMap
+309151,GLIDA Charging Hub,13.18324,77.67608,"Airport Hub, BK Halli Road, Chikkanahalli","https://www.google.com/maps/search/?api=1&query=13.18324,77.67608",OpenChargeMap
+309156,Click Hotel Sadahalli,13.19218,77.64652,"No. 35, Down Town Park, Sadahalli Gate, near ITC Factory, ","https://www.google.com/maps/search/?api=1&query=13.19218,77.64652",OpenChargeMap
+308905,"Shell Recharge, Chandapura",12.78840738219364,77.73682462376587,"44 Anekal, Balagaranahalli Road","https://www.google.com/maps/search/?api=1&query=12.78840738219364,77.73682462376587",OpenChargeMap
+308837,Wonderla Bengaluru,12.838006,77.402104,"Left Side of the Parking Area from Main Entrance Gate, Wonderla Resort,","https://www.google.com/maps/search/?api=1&query=12.838006,77.402104",OpenChargeMap
+308907,Shell Recharge Anekal Road,12.76356,77.70167,"Chandapura - Anekal Road, Marsur","https://www.google.com/maps/search/?api=1&query=12.76356,77.70167",OpenChargeMap
+311455,Sowmya Fuel Station,12.78393,77.75433,"Sy no 3, Hosur Road","https://www.google.com/maps/search/?api=1&query=12.78393,77.75433",OpenChargeMap
+308924,Eagleton The Golf Resort,12.80007,77.41324,"off Bangalore – Mysore Highway, Shyanamangala Cross, Mysore Road","https://www.google.com/maps/search/?api=1&query=12.80007,77.41324",OpenChargeMap
+309153,Taj Bangalore,13.19736,77.71011,"Taj Hotel, Right side of the Reception Entry","https://www.google.com/maps/search/?api=1&query=13.19736,77.71011",OpenChargeMap
+309152,Shell Recharge Devanahalli,13.24117,77.70313,"Devanahalli Bypass NH - 44, ","https://www.google.com/maps/search/?api=1&query=13.24117,77.70313",OpenChargeMap
+308902,Shell Recharge Gokare Road,13.23897,77.72394,"Devanahalli, Boodihal","https://www.google.com/maps/search/?api=1&query=13.23897,77.72394",OpenChargeMap
+311456,"Hotel Hills, Hosur",12.75413,77.80406,"No 41, SIPCOT Industrial Complex, Phase 1","https://www.google.com/maps/search/?api=1&query=12.75413,77.80406",OpenChargeMap
+309307,Manikanta Filling Centre BPCL,12.6915,77.47631,Kanakapura Road,"https://www.google.com/maps/search/?api=1&query=12.6915,77.47631",OpenChargeMap
+311457,Chennai Silks Hosur,12.74717,77.81056,181/182 Sipcot Complex Phase 1 Mookondapalli,"https://www.google.com/maps/search/?api=1&query=12.74717,77.81056",OpenChargeMap
+308783,Paakashala @ TBegur,13.15172,77.33795,"Thyamagondlu Cross, Karnataka 562123","https://www.google.com/maps/search/?api=1&query=13.15172,77.33795",OpenChargeMap
+308906,Shell Recharge Devanahalli,13.26416,77.71751,"NH Service Road, NH44 Bypass","https://www.google.com/maps/search/?api=1&query=13.26416,77.71751",OpenChargeMap
+274900,SemaConnect Bangalore(Wait list Enabled) - 5,13.18893573769,77.344641725,"#123, Block 4, 50 Feet Road, Indira Nagar","https://www.google.com/maps/search/?api=1&query=13.18893573769,77.344641725",OpenChargeMap
+460636,Hotel Kantara Dine,13.06457377178711,77.25712516384169,NH-75 Bengaluru - Mangaluru Highway,"https://www.google.com/maps/search/?api=1&query=13.06457377178711,77.25712516384169",OpenChargeMap
+309154,JW Marriott Bengaluru Prestige Golfshire Resort & Spa,13.31205,77.69087,"Nandi Hills Road Karahalli Post, ","https://www.google.com/maps/search/?api=1&query=13.31205,77.69087",OpenChargeMap
+311458,True Sai Tata,12.71741,77.87594,Survey No 46/ 1A and 47/1A ,"https://www.google.com/maps/search/?api=1&query=12.71741,77.87594",OpenChargeMap
+311459,Siri Motors,12.71462,77.88475,"S3 Plaza, Door No 3/61 Opp to Ashok Leyland Phase II, Plot no 14 and 23","https://www.google.com/maps/search/?api=1&query=12.71462,77.88475",OpenChargeMap
+309155,Mulberry Shades Bengaluru Nandi Hills,13.34843,77.68211,"Survey No: 28, 29 & 30, Kemathimmanahalli Village","https://www.google.com/maps/search/?api=1&query=13.34843,77.68211",OpenChargeMap
+309308,Key Motors,12.57449,77.42937,"Malavalli Road, Survey No 38/14, Kallahalli","https://www.google.com/maps/search/?api=1&query=12.57449,77.42937",OpenChargeMap
+311408,Hotel Masala Suruchi,13.0595636,77.1631723,NH - 75,"https://www.google.com/maps/search/?api=1&query=13.0595636,77.1631723",OpenChargeMap
+311460,Jio BP Hosur,12.68784,77.92684,NH - 44,"https://www.google.com/maps/search/?api=1&query=12.68784,77.92684",OpenChargeMap
